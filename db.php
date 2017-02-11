@@ -32,5 +32,5 @@ while (!feof($handle)) {
      $database= $data[1];
     }
  }
->?
+?>
 
